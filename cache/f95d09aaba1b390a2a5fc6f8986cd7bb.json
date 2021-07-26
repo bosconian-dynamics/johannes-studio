@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const metadata = {};","map":{"version":3,"sources":["/sandbox/src/data/core/slices/metadata/index.js"],"names":["metadata"],"mappings":"AAAA,OAAO,MAAMA,QAAQ,GAAG,EAAjB","sourcesContent":["export const metadata = {};\r\n"]},"metadata":{},"sourceType":"module"}

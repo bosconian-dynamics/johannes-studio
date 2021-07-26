@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as _core from \"./core\";\nexport { _core as core };","map":{"version":3,"sources":["/sandbox/src/data/index.js"],"names":["core"],"mappings":"uBAAsB,Q;kBAAVA,I","sourcesContent":["export * as core from \"./core\";\r\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./data/core/slices/metadata/index.js"],"names":["metadata"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAO,MAAMA,QAAQ,GAAG,EAAjB,C","file":"index.5de8d88436bef28f7db0.hot-update.js","sourcesContent":["export const metadata = {};\r\n"],"sourceRoot":""}
